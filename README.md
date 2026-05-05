@@ -5,7 +5,7 @@ Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
 
-
+https://github.com/CBombu/ITPM_Assignment1_resubmission.git
 ---
 
 ##  Project Structure
